@@ -11,7 +11,7 @@ public class IphoneMain {
         iphone.atender();
         iphone.iniciarCorreioVoz();
 
-        iphone.exibirPagina("https://dio.me");
+        iphone.exibirPagina("LINK");
         iphone.adicionarNovaAba();
         iphone.atualizarPagina();
     }
