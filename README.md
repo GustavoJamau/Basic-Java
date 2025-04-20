@@ -35,4 +35,4 @@ Organizar os principais fundamentos da linguagem Java em exemplos práticos e di
 
 ## 👨‍💻 Autor
 
-**Gustavo da Silva Barbosa**
+**Gustavo da Silva Barbosa (Jamau)**
