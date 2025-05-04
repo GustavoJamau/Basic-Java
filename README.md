@@ -1,7 +1,8 @@
 # ☕ Basic-Java com IA
 
 Repositório com códigos e conceitos básicos da linguagem Java, agora com uma breve introdução ao uso de **Inteligência Artificial**.  
-Ideal para iniciantes que querem aprender Java e explorar um pouco sobre IA.
+Ideal para iniciantes que querem aprender Java e explorar um pouco sobre IA.  
+📚 Desenvolvido a partir de diversos desafios propostos pela DIO (Digital Innovation One).
 
 ---
 
