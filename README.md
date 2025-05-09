@@ -1,7 +1,7 @@
 # ☕ Basic-Java com IA
 
-Repositório com códigos e conceitos básicos da linguagem Java, agora com uma breve introdução ao uso de **Inteligência Artificial**.  
-Ideal para iniciantes que querem aprender Java e explorar um pouco sobre IA.  
+Repositório com códigos e conceitos básicos da linguagem Java, agora com uma breve introdução ao uso de **Inteligência Artificial** e aos principais recursos de **nuvem da Azure**.  
+Ideal para iniciantes que querem aprender Java e também explorar, de forma complementar, conceitos modernos de **IA** e **Cloud Computing**.  
 📚 Desenvolvido a partir de diversos desafios propostos pela DIO (Digital Innovation One).
 
 ---
@@ -17,10 +17,10 @@ Java é uma linguagem de programação **orientada a objetos**, muito usada no d
 
 ---
 
-## 🤖 Inteligência Artificial
+## ☁️ Inteligência Artificial e Nuvem com Azure
 
-Este repositório inclui uma breve apresentação sobre **Inteligência Artificial**.  
-São abordadas ferramentas e conceitos que podem ser explorados como um extra para quem se interessa por IA.
+Este repositório também traz uma **introdução teórica e prática** sobre **Inteligência Artificial** e **serviços em nuvem da Azure**.  
+Os conceitos e ferramentas apresentados são explorados separadamente, como um conteúdo extra voltado para quem deseja conhecer o potencial da Azure no campo da **IA** e do **Cloud Computing**.
 
 ---
 
@@ -32,14 +32,14 @@ São abordadas ferramentas e conceitos que podem ser explorados como um extra pa
 - Métodos e funções  
 - Introdução à orientação a objetos (classes, objetos, métodos)  
 - Exemplos simples para prática  
-- Introdução a ferramentas de IA
+- Introdução à **IA** e **nuvem com Azure** (conceitos e recursos básicos)
 
 ---
 
 ## 📌 Objetivo
 
 Organizar os principais fundamentos da linguagem Java em exemplos práticos e diretos ao ponto.  
-Além disso, fornecer uma breve introdução ao uso de **Inteligência Artificial**.
+Como complemento, apresentar uma introdução ao universo da **Inteligência Artificial** e da **nuvem da Azure**, sem necessariamente integrar essas tecnologias diretamente ao código Java.
 
 ---
 
