@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <title>Calculadora</title>
+    <style>
+        /* Seu CSS aqui */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora</h1>
+        <form id="calcForm">
+            <input type="number" name="a" placeholder="Número 1" required>
+            <input type="number" name="b" placeholder="Número 2" required>
+            <select name="operacao">
+                <option value="soma">Soma</option>
+                <option value="multiplicacao">Multiplicação</option>
+            </select>
+            <button type="submit">Calcular</button>
+        </form>
+        <div class="resultado" id="resultado">
+            <!-- Resultado aparecerá aqui -->
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('calcForm');
+        const resultadoDiv = document.getElementById('resultado');
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault(); // evita o envio tradicional do form
+
+            const formData = new FormData(form);
+            const params = new URLSearchParams(formData);
+
+            fetch('/calcular?' + params.toString())
+                .then(response => response.text())
+                .then(data => {
+                    // Atualiza a div resultado com o que o backend retornar
+                    resultadoDiv.innerHTML = `<p>Resultado: ${data}</p>`;
+                })
+                .catch(error => {
+                    resultadoDiv.innerHTML = `<p style="color:red;">Erro: ${error}</p>`;
+                });
+        });
+    </script>
+</body>
+</html>
