@@ -1,0 +1,21 @@
+.container {
+    max-width: 400px;
+    margin: 100px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button {
+    padding: 10px 20px;
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #004d99;
+}
