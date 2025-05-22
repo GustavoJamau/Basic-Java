@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="qrcode-api" />
+        <module name="spring-boot-strategy-pattern" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="qrcode-api" options="-parameters" />
+      <module name="spring-boot-strategy-pattern" options="-parameters" />
     </option>
   </component>
 </project>
