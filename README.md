@@ -1,7 +1,7 @@
 # ☕ Basic-Java com IA
 
-Repositório com códigos e conceitos básicos da linguagem Java, agora com uma breve introdução ao uso de **Inteligência Artificial** e aos principais recursos de **nuvem da Azure**.  
-Ideal para iniciantes que querem aprender Java e também explorar, de forma complementar, conceitos modernos de **IA** e **Cloud Computing**.  
+Repositório com códigos e conceitos básicos da linguagem Java, com alguns projetos utilizando **Spring Boot** e também uma breve introdução teórica ao uso de **Inteligência Artificial** e aos principais recursos de **nuvem da Azure**.  
+Ideal para iniciantes que querem aprender Java e, de forma complementar, conhecer conceitos modernos de **IA**, **Cloud Computing** e **desenvolvimento com Spring Boot**.  
 📚 Desenvolvido a partir de diversos desafios propostos pela DIO (Digital Innovation One).
 
 ---
@@ -17,10 +17,20 @@ Java é uma linguagem de programação **orientada a objetos**, muito usada no d
 
 ---
 
-## ☁️ Inteligência Artificial e Nuvem com Azure
+## 🚀 Spring Boot nos Projetos
 
-Este repositório também traz uma **introdução teórica e prática** sobre **Inteligência Artificial** e **serviços em nuvem da Azure**.  
-Os conceitos e ferramentas apresentados são explorados separadamente, como um conteúdo extra voltado para quem deseja conhecer o potencial da Azure no campo da **IA** e do **Cloud Computing**.
+Alguns projetos deste repositório foram desenvolvidos utilizando **Spring Boot**, um dos frameworks mais populares do ecossistema Java, ideal para criar aplicações web de forma rápida e organizada.
+
+---
+
+## ☁️ Conteúdos Extras: IA e Azure
+
+Este repositório também inclui um **conteúdo extra e introdutório** sobre:
+
+- **Inteligência Artificial** (somente teoria e exemplos simples, **sem implementação no código**)  
+- **Serviços em nuvem da Azure** (explicações básicas e exemplos conceituais)
+
+Esses tópicos estão disponíveis como **materiais complementares**, sem integração direta com os projetos Java.
 
 ---
 
@@ -31,15 +41,16 @@ Os conceitos e ferramentas apresentados são explorados separadamente, como um c
 - Estruturas de controle (`if`, `else`, `switch`, `for`, `while`)  
 - Métodos e funções  
 - Introdução à orientação a objetos (classes, objetos, métodos)  
-- Exemplos simples para prática  
-- Introdução à **IA** e **nuvem com Azure** (conceitos e recursos básicos)
+- Projetos Java com e sem **Spring Boot**  
+- Conteúdo extra sobre **IA** e **Azure**
 
 ---
 
 ## 📌 Objetivo
 
 Organizar os principais fundamentos da linguagem Java em exemplos práticos e diretos ao ponto.  
-Como complemento, apresentar uma introdução ao universo da **Inteligência Artificial** e da **nuvem da Azure**, sem necessariamente integrar essas tecnologias diretamente ao código Java.
+Como complemento, apresentar noções básicas sobre **Inteligência Artificial** e **nuvem da Azure**, **sem integração com os projetos Java**.  
+Já o **Spring Boot** foi utilizado em alguns projetos do repositório.
 
 ---
 
